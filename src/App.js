@@ -103,16 +103,16 @@ function App() {
             <div class="pt-4">
               <div class="font-light text-center text-gray-500 space-x-1 flex items-center justify-center">
                 <div>Not registered yet?</div>
-                <a href="#" class="font-normal text-teal-500 hover:text-teal-600">
+                <span class="font-normal text-teal-500 hover:text-teal-600">
                   Create an Account
-                </a>
+                </span>
               </div>
               <div class="flex flex-wrap gap-y-2 justify-between items-center pt-14 text-center whitespace-nowrap">
                 <span class="flex-1 text-gray-500">© 2021 Dotra. All rights reserved</span>
                 <span class="flex flex-1 justify-center items-center space-x-1">
-                  <a class="text-gray-500 hover:text-teal-600" href="#">Terms of Services</a>
+                  <span class="text-gray-500 hover:text-teal-600">Terms of Services</span>
                   <span class="text-gray-500">&#183;</span>
-                  <a class="text-gray-500 hover:text-teal-600" href="#">Privacy Policy</a>
+                  <span class="text-gray-500 hover:text-teal-600">Privacy Policy</span>
                 </span>
               </div>
             </div>
